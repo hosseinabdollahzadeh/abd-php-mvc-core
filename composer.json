@@ -1,5 +1,5 @@
 {
-    "name": "abd/php-mvc-core",
+    "name": "abiz/php-mvc-core",
     "autoload": {
         "psr-4": {
             "abd\\phpmvc\\": "."
