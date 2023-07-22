@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace abiz\phpmvc;
 
 class Response
 {

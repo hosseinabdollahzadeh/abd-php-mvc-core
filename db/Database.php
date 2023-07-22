@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\db;
+namespace abiz\phpmvc\db;
 
 class Database
 {

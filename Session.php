@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace abiz\phpmvc;
 
 use Cassandra\Float_;
 
