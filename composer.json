@@ -2,7 +2,7 @@
     "name": "abiz/abd-php-mvc-core",
     "autoload": {
         "psr-4": {
-            "abd\\phpmvc\\": "."
+            "abiz\\phpmvc\\": "."
         }
     },
     "authors": [
