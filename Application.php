@@ -6,6 +6,9 @@ use abiz\phpmvc\db\Database;
 
 class Application
 {
+//    const EVENT_BEFORE_REQUEST = 'beforeRequest';
+//    const EVENT_AFTER_REQUEST = 'afterRequest';
+
     public static string $ROOT_DIR;
 
     public string $layout = 'main';
