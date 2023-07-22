@@ -2,6 +2,8 @@
 
 namespace abiz\phpmvc\db;
 
+use abiz\phpmvc\Application;
+
 class Database
 {
     public \PDO $pdo;
